@@ -1,0 +1,4 @@
+horse_id,past_race_id,race_date,finish_position,field_size,surface,distance_m,going,last3f_sec,source_id,source_published_at,observed_at,data_kind
+DEMO-H1,DEMO-PAST1,2026-10-10,2,10,turf,1600,良,34.5,manual_demo,2026-10-11T10:00:00+09:00,2026-11-14T09:00:00+09:00,demo
+DEMO-H2,DEMO-PAST2,2026-10-11,1,9,turf,1600,良,35.2,manual_demo,2026-10-12T10:00:00+09:00,2026-11-14T09:00:00+09:00,demo
+DEMO-H3,DEMO-PAST3,2026-10-12,3,12,turf,1800,稍重,36.1,manual_demo,2026-10-13T10:00:00+09:00,2026-11-14T09:00:00+09:00,demo
