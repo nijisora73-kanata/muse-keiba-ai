@@ -1,0 +1,7 @@
+{
+  "schema_version": "1.0",
+  "max_races_per_week": 3,
+  "baseline_model": "equal_probability",
+  "live_predictions_enabled": false,
+  "data_policy": "manual-or-explicitly-authorized-import-only"
+}
