@@ -1,0 +1,4 @@
+race_id,horse_id,finish_position,win_payout_per_100yen,source_id,source_published_at,observed_at,data_kind
+DEMO-20261115-001,DEMO-H1,2,,manual_demo,2026-11-15T16:00:00+09:00,2026-11-15T16:30:00+09:00,demo
+DEMO-20261115-001,DEMO-H2,1,420,manual_demo,2026-11-15T16:00:00+09:00,2026-11-15T16:30:00+09:00,demo
+DEMO-20261115-001,DEMO-H3,3,,manual_demo,2026-11-15T16:00:00+09:00,2026-11-15T16:30:00+09:00,demo
