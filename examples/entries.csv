@@ -1,0 +1,4 @@
+race_id,race_date,track,race_number,grade,surface,distance_m,horse_id,horse_name,horse_number,gate,jockey,carried_kg,scratch,source_id,source_published_at,observed_at,data_kind
+DEMO-20261115-001,2026-11-15,東京,11,G3,turf,1600,DEMO-H1,架空の流星,1,1,架空騎手A,55,0,manual_demo,2026-11-14T08:00:00+09:00,2026-11-14T09:00:00+09:00,demo
+DEMO-20261115-001,2026-11-15,東京,11,G3,turf,1600,DEMO-H2,架空の月光,2,1,架空騎手B,55,0,manual_demo,2026-11-14T08:00:00+09:00,2026-11-14T09:00:00+09:00,demo
+DEMO-20261115-001,2026-11-15,東京,11,G3,turf,1600,DEMO-H3,架空の彗星,3,2,架空騎手C,55,0,manual_demo,2026-11-14T08:00:00+09:00,2026-11-14T09:00:00+09:00,demo
